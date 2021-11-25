@@ -9,22 +9,27 @@ git clone https://github.com/vietanh2000april/hummingbird.git
 ```
 
 Change into project directory
-```bat
+```cmd
 cd hummingbird
 ```
 
+Activate virutal environment
+```cmd
+oscar\Scripts\activate
+```
+
 Install required modules
-```bat
+```cmd
 pip install -r requirements.txt
 ```
 
 Create admin user (optional)
-```bat
+```cmd
 python manage.py createsuperuser
 ```
 
 Run server in localhost:8000
-```bat
+```cmd
 python manage.py runserver
 ```
 
