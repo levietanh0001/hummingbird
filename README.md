@@ -28,6 +28,11 @@ Create admin user (optional)
 python manage.py createsuperuser
 ```
 
+Migrate changes
+```cmd
+python manage.py migrate
+```
+
 Run server in localhost:8000
 ```cmd
 python manage.py runserver
