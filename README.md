@@ -40,5 +40,5 @@ python manage.py runserver
 
 Admin List
 ---
-1. user: admin, email: admin@gmail.com, password: admin
-2. user: lva, email: vietanh2000april@gmail.com, password: 123321
+1. **user**: admin, **email**: admin@gmail.com, **password**: admin
+2. **user**: lva, **email**: vietanh2000april@gmail.com, **password**: 123321
